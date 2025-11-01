@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm a third year master from [ZheJiangGongShang University](https://www.zjgsu.edu.cn/). My research interest includes computer vision, computer graphics, machine learning, and computational photography.
+I'm a third year master from [ZheJiangGongShang University](http://www.zjgsu.edu.cn/). My research interest includes computer vision, computer graphics, machine learning, and computational photography.
 
 
 
